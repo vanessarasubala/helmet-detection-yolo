@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+runs/
+datasets/
+models/
+.DS_Store
+bus.jpg
+yolov8n.pt
